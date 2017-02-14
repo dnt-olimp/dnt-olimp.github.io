@@ -4,301 +4,308 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://dnt-olimp.info/</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/about.html</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/pages/about.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/bayer-info.html</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/pages/bayer-info.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/contact.html</loc>
+<loc>/pages/contact.html</loc>
 <lastmod>2011-10-10T00:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/details.html</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/pages/details.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/law.html</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/pages/law.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/pages/standarts.html</loc>
-<lastmod>2017-02-03T10:33:40-00:00</lastmod>
+<loc>/pages/payments.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2017/01/31/novaia-versiia-saita-dnt-olimpiiskii/</loc>
+<loc>/pages/standarts.html</loc>
+<lastmod>2017-02-14T17:24:25-00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2017/01/31/novaia-versiia-saita-dnt-olimpiiskii/</loc>
 <lastmod>2017-01-31T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/12/16/informatsiia-o-bankovskikh-rekvizitakh-dnt-olimpiiskii/</loc>
+<loc>/2016/12/16/informatsiia-o-bankovskikh-rekvizitakh-dnt-olimpiiskii/</loc>
 <lastmod>2016-12-16T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/12/05/dopolnitelnye-chasy-priema-v-administratsii-dnt-olimpiiskii-v-dekadre-2016/</loc>
+<loc>/2016/12/05/dopolnitelnye-chasy-priema-v-administratsii-dnt-olimpiiskii-v-dekadre-2016/</loc>
 <lastmod>2016-12-05T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/11/23/informatsiia-o-zadolzhennosti-po-chlenskim-vznosam/</loc>
+<loc>/2016/11/23/informatsiia-o-zadolzhennosti-po-chlenskim-vznosam/</loc>
 <lastmod>2016-11-23T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/11/11/informatsiia-ob-otkliuchenii-vody-i-elektroenergii-dolzhnikam/</loc>
+<loc>/2016/11/11/informatsiia-ob-otkliuchenii-vody-i-elektroenergii-dolzhnikam/</loc>
 <lastmod>2016-11-11T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/10/25/informatsiia-ob-oplate-chlenskikh-vznosov-za-2016-g/</loc>
+<loc>/2016/10/25/informatsiia-ob-oplate-chlenskikh-vznosov-za-2016-g/</loc>
 <lastmod>2016-10-25T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/05/24/obshchee-sobranie-chlenov-dnt-olimpiiskii-28052016/</loc>
+<loc>/2016/05/24/obshchee-sobranie-chlenov-dnt-olimpiiskii-28052016/</loc>
 <lastmod>2016-05-24T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/05/24/informatsiia-o-oplate-i-vyvoze-musora/</loc>
+<loc>/2016/05/24/informatsiia-o-oplate-i-vyvoze-musora/</loc>
 <lastmod>2016-05-24T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/05/11/14-maia-budet-proizvoditsia-plombirovanie-elektroschetchikov/</loc>
+<loc>/2016/05/11/14-maia-budet-proizvoditsia-plombirovanie-elektroschetchikov/</loc>
 <lastmod>2016-05-11T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/04/19/priglashaem-chlenov-dnt-olimpiiskii-na-subbotnik/</loc>
+<loc>/2016/04/19/priglashaem-chlenov-dnt-olimpiiskii-na-subbotnik/</loc>
 <lastmod>2016-04-19T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/04/11/v-dnt-olimpiiskii-prisvoili-novye-nazvaniia-ulits/</loc>
+<loc>/2016/04/11/v-dnt-olimpiiskii-prisvoili-novye-nazvaniia-ulits/</loc>
 <lastmod>2016-04-11T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2016/03/14/chlenam-dnt-srochno-do-20-marta-predostavit-dokumenty-dlia-zakliucheniia-dogovora-po-elektrosnabzheniiu/</loc>
+<loc>/2016/03/14/chlenam-dnt-srochno-do-20-marta-predostavit-dokumenty-dlia-zakliucheniia-dogovora-po-elektrosnabzheniiu/</loc>
 <lastmod>2016-03-14T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/12/08/otchet-o-rabote-predsedatelia-dnt-olimpiiskii-za-2015-god/</loc>
+<loc>/2015/12/08/otchet-o-rabote-predsedatelia-dnt-olimpiiskii-za-2015-god/</loc>
 <lastmod>2015-12-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/12/08/ob-oplate-chlenskikh-vznosov-za-2015-g/</loc>
+<loc>/2015/12/08/ob-oplate-chlenskikh-vznosov-za-2015-g/</loc>
 <lastmod>2015-12-08T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/11/09/neobkhodimo-srochno-pogasit-zadolzhennost-po-elektroenergii/</loc>
+<loc>/2015/11/09/neobkhodimo-srochno-pogasit-zadolzhennost-po-elektroenergii/</loc>
 <lastmod>2015-11-09T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/10/27/chlenam-dnt-neobkhodimo-uteplit-kolodtsy-vodosnabzheniia-na-zimu/</loc>
+<loc>/2015/10/27/chlenam-dnt-neobkhodimo-uteplit-kolodtsy-vodosnabzheniia-na-zimu/</loc>
 <lastmod>2015-10-27T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/04/03/11-aprelia-proidet-obshchee-sobranie-subbotnik/</loc>
+<loc>/2015/04/03/11-aprelia-proidet-obshchee-sobranie-subbotnik/</loc>
 <lastmod>2015-04-03T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/04/02/dnt-olimpiiskii-obiavliaet-nedeliu-chistoty-s-4-po-11-aprelia/</loc>
+<loc>/2015/04/02/dnt-olimpiiskii-obiavliaet-nedeliu-chistoty-s-4-po-11-aprelia/</loc>
 <lastmod>2015-04-02T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/02/27/situatsiia-s-zadolzhennostiu-dnt-olimpiiskii-za-potreblennuiu-elektricheskuiu-energiiu/</loc>
+<loc>/2015/02/27/situatsiia-s-zadolzhennostiu-dnt-olimpiiskii-za-potreblennuiu-elektricheskuiu-energiiu/</loc>
 <lastmod>2015-02-27T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/02/26/25-fevralia-2015-g-v-administratsii-oktiabrskogo-raiona-g-ulan-ude-proshlo-sobranie-predstavitelei-snt-dnt/</loc>
+<loc>/2015/02/26/25-fevralia-2015-g-v-administratsii-oktiabrskogo-raiona-g-ulan-ude-proshlo-sobranie-predstavitelei-snt-dnt/</loc>
 <lastmod>2015-02-26T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2015/02/12/ob-oplate-zadolzhennosti-za-elektroenergiiu/</loc>
+<loc>/2015/02/12/ob-oplate-zadolzhennosti-za-elektroenergiiu/</loc>
 <lastmod>2015-02-12T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/12/19/vnimanie-izmenilsia-adres-ofisa-dnt-olimpiiskii/</loc>
+<loc>/2014/12/19/vnimanie-izmenilsia-adres-ofisa-dnt-olimpiiskii/</loc>
 <lastmod>2014-12-19T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/11/12/informatsiia-o-razdele-ulits-v-dnt-olimpiiskii/</loc>
+<loc>/2014/11/12/informatsiia-o-razdele-ulits-v-dnt-olimpiiskii/</loc>
 <lastmod>2014-11-12T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/11/11/ob-oplate-chlenskikh-vznosov-za-2014-g/</loc>
+<loc>/2014/11/11/ob-oplate-chlenskikh-vznosov-za-2014-g/</loc>
 <lastmod>2014-11-11T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/11/10/obiavlenie-dlia-chlenov-dnt-olimpiiskii-ne-oformivshikh-doverennost-i-ne-poluchivshikh-dokumenty-o-prave-sobstvennosti/</loc>
+<loc>/2014/11/10/obiavlenie-dlia-chlenov-dnt-olimpiiskii-ne-oformivshikh-doverennost-i-ne-poluchivshikh-dokumenty-o-prave-sobstvennosti/</loc>
 <lastmod>2014-11-10T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/08/28/dnt-olimpiiskii-podkliuchen-k-linii-elektrosnabzheniia-ostavliaite-zaiavki-na-podkliuchenie/</loc>
+<loc>/2014/08/28/dnt-olimpiiskii-podkliuchen-k-linii-elektrosnabzheniia-ostavliaite-zaiavki-na-podkliuchenie/</loc>
 <lastmod>2014-08-28T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/08/27/na-territorii-dnt-olimpiiskii-vvedena-v-deistvie-vodokolonka/</loc>
+<loc>/2014/08/27/na-territorii-dnt-olimpiiskii-vvedena-v-deistvie-vodokolonka/</loc>
 <lastmod>2014-08-27T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/05/26/obshchee-sobranie-chlenov-dnt-olimpiiskii-31-maia-2014-g/</loc>
+<loc>/2014/05/26/obshchee-sobranie-chlenov-dnt-olimpiiskii-31-maia-2014-g/</loc>
 <lastmod>2014-05-26T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/05/15/informatsiia-dlia-zhelaiushchikh-podkliuchit-kholodnuiu-vodu-i-kanalizatsiiu-k-svoim-uchastkam-vykopat-kotlovan/</loc>
+<loc>/2014/05/15/informatsiia-dlia-zhelaiushchikh-podkliuchit-kholodnuiu-vodu-i-kanalizatsiiu-k-svoim-uchastkam-vykopat-kotlovan/</loc>
 <lastmod>2014-05-15T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/04/30/chleny-dnt-delavshie-doverennost-na-predsedatelia-mogut-poluchit-svoi-dokumenty-o-sobstvennosti-v-ofise-dnt-v-priemnye-dni/</loc>
+<loc>/2014/04/30/chleny-dnt-delavshie-doverennost-na-predsedatelia-mogut-poluchit-svoi-dokumenty-o-sobstvennosti-v-ofise-dnt-v-priemnye-dni/</loc>
 <lastmod>2014-04-30T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/04/10/chlenam-dnt-olimpiiskii-neobkhodimo-zakliuchit-dogovor-o-polzovanii-obektami-infrastruktury-i-drugim-imushchestvom-obshchego-polzovaniia/</loc>
+<loc>/2014/04/10/chlenam-dnt-olimpiiskii-neobkhodimo-zakliuchit-dogovor-o-polzovanii-obektami-infrastruktury-i-drugim-imushchestvom-obshchego-polzovaniia/</loc>
 <lastmod>2014-04-10T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/04/09/podkliuchenie-uchastkov-k-sisteme-vodosnabzheniia-dnt-olimpiiskii/</loc>
+<loc>/2014/04/09/podkliuchenie-uchastkov-k-sisteme-vodosnabzheniia-dnt-olimpiiskii/</loc>
 <lastmod>2014-04-09T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/04/08/chlenam-dnt-olimpiiskii-neobkhodimo-provesti-na-svoikh-uchastkakh-uborku-musora/</loc>
+<loc>/2014/04/08/chlenam-dnt-olimpiiskii-neobkhodimo-provesti-na-svoikh-uchastkakh-uborku-musora/</loc>
 <lastmod>2014-04-08T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/04/02/vnimaniiu-chlenov-dnt-v-sviazi-s-bolshim-kolichestvom-obrashchenii-prosim-zvonit-predsedateliu-tolko-v-opredelennye-dlia-priema-datu-i-vremia/</loc>
+<loc>/2014/04/02/vnimaniiu-chlenov-dnt-v-sviazi-s-bolshim-kolichestvom-obrashchenii-prosim-zvonit-predsedateliu-tolko-v-opredelennye-dlia-priema-datu-i-vremia/</loc>
 <lastmod>2014-04-02T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/03/04/informatsiia-dlia-chlenov-dnt-zhelaiushchikh-utochnit-granitsy-svoikh-uchastkov/</loc>
+<loc>/2014/03/04/informatsiia-dlia-chlenov-dnt-zhelaiushchikh-utochnit-granitsy-svoikh-uchastkov/</loc>
 <lastmod>2014-03-04T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>http://dnt-olimp.info/2014/01/20/18-ianvaria-sostoialos-obshchee-sobranie-upolnomochennykh-dnt-olimpiiskii-reshenie-sobraniia/</loc>
+<loc>/2014/01/20/18-ianvaria-sostoialos-obshchee-sobranie-upolnomochennykh-dnt-olimpiiskii-reshenie-sobraniia/</loc>
 <lastmod>2014-01-20T10:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
