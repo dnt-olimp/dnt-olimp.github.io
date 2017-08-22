@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/about.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/bayer-info.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -33,30 +33,51 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/pages/details.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/law.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/payments.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/standarts.html</loc>
-<lastmod>2017-06-19T14:41:10-00:00</lastmod>
+<lastmod>2017-08-22T13:48:37-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2017/08/22/o-detskom-sade/</loc>
+<lastmod>2017-08-22T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>/2017/08/22/o-podgotovke-k-zime/</loc>
+<lastmod>2017-08-22T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>/2017/08/22/o-ulichnom-osveshchenii/</loc>
+<lastmod>2017-08-22T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
 </url>
 
 <url>
